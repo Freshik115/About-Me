@@ -1,6 +1,6 @@
 # The tester's path is like the path of a samurai
 
-[**Test-case/Bug-report**](https://github.com/Freshik115/My-work)
+
 
 
 ## About me
