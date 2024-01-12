@@ -1,5 +1,8 @@
 # The tester's path is like the path of a samurai
 
+[**Test-case/Bug-report**](https://github.com/Freshik115/My-work)
+
+
 ## About me
 
 Развиваюсь в сфере IT технологий, изучаю тестирование всех видов, в том числе и нагрузочное, также проявляю интерес к разработке ПО, UX/UI. Продолжаю обучение в Нетологии и на просторах сети интернет. 
@@ -29,7 +32,8 @@ Check list, Клиент-серверная архитектура,
 
 Английский язык на уровне любительский (прохожу доп. обучение языку)
 
-![Сертификат]![certificate](https://github.com/Freshik115/About-Me/assets/155950115/3a407e27-31eb-4f3c-8282-6fade2cae07a)
+![certificate](https://github.com/Freshik115/About-Me/assets/155950115/3a407e27-31eb-4f3c-8282-6fade2cae07a)
+
 
 
 
