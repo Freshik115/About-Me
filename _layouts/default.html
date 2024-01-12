@@ -41,11 +41,7 @@
         <a href="https://docs.google.com/document/d/1T7TFujx-F3BHlH5QtfbJFIABXPtTp0CzsyqVUMQT9_Y/">Мое резюме </a>
         <h3>Programms & lang</h3>
         <p>Postman, JIRA, Swagger, Jmeter, HTML&CSS, DevTools, Visual Studio Code, Git, GitHub.</p>
-        <h3>Contacts</h3>
-        <p>Yandex Mail: volchenkov.andryuha@yandex.ru</p>
-          <p>Google Mail: freshik115@gmail.com</p>
-          <p>Telegram: @richipes228</p>
-          <p>Telephone: +7 (912) 133-25-15, +7 (912) 151-47-47</p>
+        
         
         
       </header>
@@ -55,12 +51,19 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <h3>Contacts</h3>
+        <p>Yandex Mail: volchenkov.andryuha@yandex.ru</p>
+          <p>Google Mail: freshik115@gmail.com</p>
+          <p>Telegram: @richipes228</p>
+          <p>Telephone: +7 (912) 133-25-15, +7 (912) 151-47-47</p>
+       
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
+  <footer> 
+    {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p></footer>
 </html>
