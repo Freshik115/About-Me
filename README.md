@@ -22,28 +22,51 @@ Java, JavaScript, SQL, автоматизацию тестирования, Char
 ## Skills
 
 *Postman
+
 *JIRA 
+
 *Swagger 
+
 *Jmeter 
+
 *HTML&CSS
+
 *DevTools 
+
 *Visual Studio Code 
+
 *Git 
+
 *GitHub
+
 *CI/CD
+
 *Функциональное/нефункциональное тестирование 
+
 *API тестирование 
+
 *Rest 
+
 *Soap 
+
 *Regression 
+
 *Integration 
+
 *Smoke 
+
 *Test Case
+
 *Bug report
+
 *Check list
+
 *Клиент-серверная архитектура 
+
 *Циклы тестирования ПО 
+
 *Циклы разработки ПО
+
 *Тест-дизайн в соответствии со стандартами ISTQB
 
 ## Language
