@@ -57,7 +57,7 @@ Java, JavaScript, SQL, автоматизацию тестирования, Char
 
 *Test Case
 
-*Bag report
+*Bug report
 
 *Check list
 
