@@ -12,7 +12,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#24529d;
+  color:#849bc2;
   margin:0 0 20px;
 }
 
@@ -131,16 +131,16 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #9c767600;
   border-radius:5px;
-  border:1px solid #e0e0e0;
+  border:1px solid #9c767600;
   width:270px;
 }
 
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px solid #9c767600;
   height:40px;
 }
 
@@ -155,7 +155,7 @@ ul.downloads {
 .downloads a {
   line-height:1;
   font-size:11px;
-  color:#676767;
+  color:#000000;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -163,7 +163,7 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+  color:#3277cc;
   font-weight:bold;
 }
 
