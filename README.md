@@ -21,6 +21,12 @@ Java, JavaScript, SQL, автоматизацию тестирования, Char
 
 ## Skills
 
+*SQL
+
+*Replit 
+
+*CI/CD
+
 *Postman
 
 *JIRA 
