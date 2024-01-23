@@ -1,8 +1,3 @@
-# The tester's path is like the path of a samurai
-
-
-
-
 ## About me
 
 Развиваюсь в сфере IT технологий, изучаю тестирование всех видов, в том числе и нагрузочное, также проявляю интерес к разработке ПО, UX/UI. Продолжаю обучение в Нетологии и на просторах сети интернет. 
@@ -12,6 +7,9 @@
 ## I'm studying 
 
 Java, JavaScript, SQL, автоматизацию тестирования, Charles, figma, Python, xCode, android studio, TestFlight.
+
+# The tester's path is like the path of a samurai
+
 
 ## Education
 
