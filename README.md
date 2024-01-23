@@ -75,6 +75,8 @@ Java, JavaScript, SQL, автоматизацию тестирования, Char
 
 Английский язык на уровне любительский (прохожу доп. обучение языку)
 
+## Сertificate
+
 ![certificate](https://github.com/Freshik115/About-Me/assets/155950115/3a407e27-31eb-4f3c-8282-6fade2cae07a)
 ![2024-01-15_10-29-58](https://github.com/Freshik115/About-Me/assets/155950115/36fbe589-f872-4cc0-93bf-c2e5ed999f5c)
 
